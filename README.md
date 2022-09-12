@@ -23,9 +23,8 @@
 
 ## Overview
 
-![screenshot](https://github.com/WizBrym/devChallenge-MyTeamPage/blob/main/MyTeamPageScreenshot%20.jpg)
+![screenshot]()
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo? https://gentle-eyrie-07835.herokuapp.com/
 
