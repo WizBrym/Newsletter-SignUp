@@ -40,4 +40,3 @@
 ## Contact
 
 - GitHub [@wizbrym](https://github.com/wizbrym)
-- Twitter [@wiz_brym](https://twitter.com/wiz_brym)
