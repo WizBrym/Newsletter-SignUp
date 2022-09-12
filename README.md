@@ -23,7 +23,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/WizBrym/Newsletter-SignUp/blob/main/homepage.png)
 
 
 - Where can I see your demo? https://gentle-eyrie-07835.herokuapp.com/
