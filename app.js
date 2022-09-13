@@ -37,9 +37,9 @@ app.post("/", function(req, res) {
   const jsonData = JSON.stringify(data); //passing jsonData to mailchipm API
 
   //API Credentials
-  const apiKey = "f64e8d4114c29cf0d63e0f8ec9a5e660-us8"
+  const apiKey = "f64*****14c29cf0********5e660-us*"
   const api_server = "us8";
-  const listID = "989236917b";
+  const listID = "989***91**";
   const url = "https://" + api_server + ".api.mailchimp.com/3.0/lists/" + listID; //API endpoint
 
   //initiate connection to the API using Basic Auth
